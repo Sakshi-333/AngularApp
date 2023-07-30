@@ -1,0 +1,235 @@
+{
+  "seller": [
+    {
+      "name": "sam sidhu",
+      "email": "sam@seller.com",
+      "password": "abc@123",
+      "id": 2
+    },
+    {
+      "name": "peter",
+      "password": "abc@123",
+      "email": "peter@test.com",
+      "id": 3
+    },
+    {
+      "name": "bruce",
+      "password": "abc@123",
+      "email": "bruce@test.com",
+      "id": 4
+    },
+    {
+      "name": "anil",
+      "password": "abc123",
+      "email": "anil@test.com",
+      "id": 5
+    },
+    {
+      "name": "alena",
+      "password": "abc123",
+      "email": "alena@test.com",
+      "id": 6
+    },
+    {
+      "name": "sam",
+      "password": "abc@123",
+      "email": "sam@test.com",
+      "id": 7
+    },
+    {
+      "name": "bhasker",
+      "password": "abc@123",
+      "email": "bhasker@test.com",
+      "id": 8
+    },
+    {
+      "name": "Trishala",
+      "password": "abcd@123",
+      "email": "trishala@gmail.com",
+      "id": 9
+    },
+    {
+      "name": "Siya",
+      "password": "abcd123",
+      "email": "siya7@gmail.com",
+      "id": 10
+    },
+    {
+      "name": "Sakshi Oswal",
+      "password": "abcd@123",
+      "email": "sakshioswal422@gmail.com",
+      "id": 11
+    }
+  ],
+  "products": [
+    {
+      "name": "Iphone 14",
+      "price": "1,00,000",
+      "category": "mobile",
+      "color": "white",
+      "description": "An Apple Product",
+      "image": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSOO1JDPUNwcPiqzHYhaL_zpJA0Ymlr6mD9sSgTPad_JYdrk-o",
+      "id": 2
+    },
+    {
+      "name": "HP Laptop",
+      "price": "50,000",
+      "category": "Laptop",
+      "color": "black",
+      "description": "Hp laptop for student and professionals",
+      "image": "https://www.91-cdn.com/hub/wp-content/uploads/2022/07/Top-laptop-brands-in-India.jpg",
+      "id": 3
+    },
+    {
+      "name": "Lenovo IdeaPad Ryzen 7 Octa core 5800H",
+      "price": "68,990",
+      "category": "Laptop",
+      "color": "Black",
+      "description": "15ACH6 Gaming Laptop ",
+      "image": "https://rukminim1.flixcart.com/image/832/832/kynb6vk0/computer/k/j/a/-original-imagaufne7h4hgbz.jpeg?q=70",
+      "id": 4
+    },
+    {
+      "name": "Samsung Z Flip4",
+      "price": "89,999",
+      "category": "Smart phone",
+      "color": "Purple",
+      "description": "Capture the world around you and enjoy a seamless utility experience with the Samsung Galaxy Z Flip4 smartphone. This smartphone features a mind-blowing 4.82 cm (1.9) Cover Screen so that you can conveniently use your photos or videos as the wallpaper of your choice. Also, this phone boasts a versatile FlexCam hands-free camera setup that allows you to capture delightful group shots, selfies and videos from a multitude of angels. Moreover, thanks to the small-size Flip design and water-resistant standards, you can easily slip it into your bag or pocket as well as use it in rainwater without worrying about getting damaged.\n",
+      "image": "https://images.mobilefun.co.uk/graphics/450pixelp/86586.jpg",
+      "id": 5
+    },
+    {
+      "name": "MacBook Air",
+      "price": "84,490",
+      "category": "Laptop",
+      "color": "Space grey",
+      "description": "Powerful Performance – Take on everything from professional-quality editing to action-packed gaming with ease. The Apple M1 chip with an 8-core CPU delivers up to 3.5x faster performance than the previous generation while using way less power.",
+      "image": "https://tse2.mm.bing.net/th?id=OIP.-QdXPjssPIUxqC7MoxJNugHaHa&pid=Api&P=0&h=180",
+      "id": 6
+    },
+    {
+      "name": "Noise Smart Watch",
+      "price": "2000",
+      "category": "Watch",
+      "color": "Black",
+      "description": "Noise smart watch for man and women both",
+      "image": "https://www.reliancedigital.in/medias/Noise-Colorfit-Pro-2-Smart-Watch-491900986-i-1-1200Wx1200H-300Wx300H?context=bWFzdGVyfGltYWdlc3w1MDc0NXxpbWFnZS9qcGVnfGltYWdlcy9oYzkvaDdjLzk1OTE4MjA3NDY3ODIuanBnfDA3MjZlMzkzOTExYzMyNzk5Y2YzOTk0MWFkMjc5YjE5OTlkMDE4NzYzYTg1YzQ2YmNjZjMxYzc5ZDJiYjBlNDg",
+      "id": 7
+    },
+    {
+      "name": "One-plus airpods",
+      "price": "2000",
+      "category": "Earphones",
+      "color": "Black",
+      "description": "Earphones",
+      "image": "https://tse2.mm.bing.net/th?id=OIP.Wsxsqt2tcEV8vgYG3QkroQHaFj&pid=Api&P=0&h=180",
+      "id": 8
+    },
+    {
+      "name": "Apple iPhone 14(512 GB)",
+      "price": "97,999",
+      "category": "Smart phone",
+      "color": "Blue",
+      "description": "An updated internal design delivers better thermal efficiency , so you can stay in the action longer.",
+      "image": "https://tse2.mm.bing.net/th?id=OIP.UcRkTFNCYgfTtiOGLTsX0gHaKX&pid=Api&P=0&h=180",
+      "id": 9
+    },
+    {
+      "name": "iPhone 13 pro(256 GB)",
+      "price": "1,29,900",
+      "category": "Smart phone",
+      "color": "Deep purple",
+      "description": "A magical way to interact with your iPhone . A vital safety feature designed to save lives. An innovative 48MP Main camera . And a display that's up to 2x brighter in the sun. All powered by the ultimate smartphone chip",
+      "image": "https://rukminim1.flixcart.com/image/832/832/xif0q/mobile/l/8/r/-original-imaghxemnnnkd8bg.jpeg?q=70",
+      "id": 10
+    }
+  ],
+  "users": [
+    {
+      "name": "anil",
+      "email": "anil@user.com",
+      "password": "abc123",
+      "id": 1
+    },
+    {
+      "name": "peter",
+      "email": "peter@user.com",
+      "password": "abc123",
+      "id": 2
+    },
+    {
+      "name": "hyden",
+      "email": "hyden@user.com",
+      "password": "abc123",
+      "id": 3
+    },
+    {
+      "name": "tony",
+      "email": "tony@user.com",
+      "password": "abc123",
+      "id": 4
+    },
+    {
+      "name": "Trishala",
+      "email": "trishala@gmail.com",
+      "password": "abcd@123",
+      "id": 5
+    },
+    {
+      "name": "Angeline",
+      "email": "angelinesthomas111@gmail.com",
+      "password": "angeline@569",
+      "id": 6
+    },
+    {
+      "name": "Samkit Oswal",
+      "email": "samkitoswal9@gmail.com",
+      "password": "abcd@9",
+      "id": 7
+    }
+  ],
+  "cart": [
+    {
+      "name": "Levies Jeans",
+      "price": "5000",
+      "category": "Jeans",
+      "color": "blue",
+      "description": "Confirmable jeans for man ",
+      "image": "https://www.filmibeat.com/wimg/desktop/2012/12/13548612746596.jpg",
+      "quantity": 1,
+      "productId": 5,
+      "userId": 3,
+      "id": 8
+    },
+    {
+      "name": "Iphone 14",
+      "price": "100000",
+      "category": "mobile",
+      "color": "black",
+      "description": "An Apple Product",
+      "image": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSOO1JDPUNwcPiqzHYhaL_zpJA0Ymlr6mD9sSgTPad_JYdrk-o",
+      "quantity": 2,
+      "productId": 2,
+      "userId": 6,
+      "id": 10
+    }
+  ],
+  "orders": [
+    {
+      "email": "anil@user.com",
+      "address": "noida sector x",
+      "contact": "9999",
+      "totalPrice": 104750,
+      "userId": 1,
+      "id": 1
+    },
+    {
+      "email": "anil@test.com",
+      "address": "noida sector x",
+      "contact": "8877",
+      "totalPrice": 6100,
+      "userId": 1,
+      "id": 3
+    }
+  ]
+}
